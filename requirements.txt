@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+unstructured  
+chromadb 
+openai  
+tiktoken   
+python-magic-bin
+tqdm
+langchain-chroma
+sentence_transformers
