@@ -29,11 +29,9 @@ This repository provides a system that integrates a knowledge base with a chatbo
 
 ## Example output
 
+<img src=".\images\example1.png" alt="arch" />
 
-![example1](.\images\example1.png)
-
-![example2](.\images\example2.png)
-
+<img src=".\images\example2.png" alt="arch"/>
 
 ## Installation
 
