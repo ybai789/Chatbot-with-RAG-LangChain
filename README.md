@@ -38,8 +38,8 @@ This repository provides a system that integrates a knowledge base with a chatbo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/knowledge-base-chatbot.git
-   cd knowledge-base-chatbot
+   git clone https://github.com/ybai789/Chatbot-with-RAG-LangChain.git
+   cd Chatbot-with-RAG-LangChain
    ```
 
 2. Install the required dependencies:
